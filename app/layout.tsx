@@ -5,8 +5,8 @@ import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
-  title: "Бухгалтерські послуги Рівне",
-  description: "Надання бухгалтерських послуг м. Рівне", //need know to add the current dynamic-changed date
+  title: "Travel",
+  description: "Travel UI/UX App for Camping", //need know to add the current dynamic-changed date
   icons:{
     icon: ['/favicon.ico?v=4']
   }
